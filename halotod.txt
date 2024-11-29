@@ -1,0 +1,38 @@
+<div style="display:none;">
+    <h3>Categories</h3>
+    <ul>
+        <li><a href="https://halotod.com/category/">Category</a></li>
+        <li><a href="https://halotod.com/tag/">Tag</a></li>
+        <li><a href="https://halotod.com/category/ancaman-siber/">Ancaman Siber</a></li>
+        <li><a href="https://halotod.com/category/aplikasi-dan-teknologi/">Aplikasi dan Teknologi</a></li>
+        <li><a href="https://halotod.com/category/cybersecurity/">Cybersecurity</a></li>
+        <li><a href="https://halotod.com/category/ethical-hacking/">Ethical Hacking</a></li>
+        <li><a href="https://halotod.com/category/hacker/">Hacker</a></li>
+        <li><a href="https://halotod.com/category/hiburan/">Hiburan</a></li>
+        <li><a href="https://halotod.com/category/hacking/">Hacking</a></li>
+        <li><a href="https://halotod.com/category/infrastruktur-jaringan/">Infrastruktur Jaringan</a></li>
+        <li><a href="https://halotod.com/category/insiden-keamanan/">Insiden Keamanan</a></li>
+        <li><a href="https://halotod.com/category/keamanan-data/">Keamanan Data</a></li>
+        <li><a href="https://halotod.com/category/keamanan-digital/">Keamanan Digital</a></li>
+        <li><a href="https://halotod.com/category/keamanan-informasi/">Keamanan Informasi</a></li>
+        <li><a href="https://halotod.com/category/keamanan-online/">Keamanan Online</a></li>
+        <li><a href="https://halotod.com/category/keamanan-siber/">Keamanan Siber</a></li>
+        <li><a href="https://halotod.com/category/keamanan-web/">Keamanan Web</a></li>
+        <li><a href="https://halotod.com/category/malware/">Malware</a></li>
+        <li><a href="https://halotod.com/category/media-sosial/">Media Sosial</a></li>
+        <li><a href="https://halotod.com/category/panduan-tutorial/">Panduan Tutorial</a></li>
+        <li><a href="https://halotod.com/category/pemrograman/">Pemrograman</a></li>
+        <li><a href="https://halotod.com/category/peretasan-dan-ancaman-dunia-maya/">Peretasan dan Ancaman Dunia Maya</a></li>
+        <li><a href="https://halotod.com/category/privasi-digital/">Privasi Digital</a></li>
+        <li><a href="https://halotod.com/category/privasi-online/">Privasi Online</a></li>
+        <li><a href="https://halotod.com/category/proteksi-konten/">Proteksi Konten</a></li>
+        <li><a href="https://halotod.com/category/teknologi/">Teknologi</a></li>
+        <li><a href="https://halotod.com/category/teknologi-dan-keamanan/">Teknologi dan Keamanan</a></li>
+        <li><a href="https://halotod.com/category/teknologi-dan-privasi/">Teknologi dan Privasi</a></li>
+        <li><a href="https://halotod.com/category/tips-trik/">Tips dan Trik</a></li>
+        <li><a href="https://halotod.com/category/tools-hacking/">Tools Hacking</a></li>
+        <li><a href="https://halotod.com/category/uncategorized/">Uncategorized</a></li>
+        <li><a href="https://halotod.com/category/web-development/">Web Development</a></li>
+        <li><a href="https://halotod.com/category/wordpress/">WordPress</a></li>
+    </ul>
+</div>
