@@ -1,11 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <configuration>
-  <system.webServer>
-    <security>
-      <authentication>
-        <anonymousAuthentication enabled="true" />
-        <windowsAuthentication enabled="false" />
-      </authentication>
-    </security>
-  </system.webServer>
+  <system.web>
+    <customErrors mode="Off"/>
+    <compilation debug="true"/>
+  </system.web>
 </configuration>
