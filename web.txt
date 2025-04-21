@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+  <system.webServer>
+
+    <!-- Prioritaskan file default -->
+    <defaultDocument>
+      <files>
+        <clear />
+        <add value="index.aspx" />
+        <add value="index.html" />
+        <add value="index.php" />
+      </files>
+    </defaultDocument>
+
+    <!-- Support eksekusi PHP -->
+    <handlers>
+      <add name="PHP_via_FastCGI" path="*.php" verb="*" modules="FastCgiModule" scriptProcessor="C:\php\php-cgi.exe" resourceType="Either" requireAccess="Script" />
+    </handlers>
+
+    <!-- Tambahan opsional: Eksekusi file di folder tertentu -->
+    <security>
+      <requestFiltering allowDoubleEscaping="true" />
+    </security>
+
+  </system.webServer>
+</configuration>
